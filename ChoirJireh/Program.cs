@@ -1,5 +1,7 @@
 var builder = WebApplication.CreateBuilder(args);
 
+//JIRA 연결 테스트
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
